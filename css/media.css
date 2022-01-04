@@ -1,0 +1,26 @@
+@media screen and (max-width: 480px) {
+	body {
+		padding: 0px;
+	}
+	.logo {
+		width: 450px;
+		margin-top: 0;
+		border-radius: 0;
+	}
+
+	.lgoa {
+		width: 400px;
+	}
+	
+	.menu {
+		width: 50px;
+	}
+	.menu a{
+		font-size: 35px;
+	}
+	.menu:hover .menu-l {
+		padding: 3px;
+		font-size: 45px;
+		margin-left: -100px;
+	}
+}
